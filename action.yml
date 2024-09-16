@@ -8,6 +8,7 @@ inputs:
   another-greet:
     description: 'Another'
     default: 'TV2'
+    required: true
 outputs:  
   time:
     description: 'The time we greeted you'
